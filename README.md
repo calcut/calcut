@@ -5,7 +5,7 @@ A few images to illustrate my recent work
 ### IoT Heat Pump Controller
 
 <p align="center">
-  <img src="images/M5-Notecard.png" width="600"><br>
+  <img src="images/M5-Notecard.png" width="500"><br>
   PCB to interface Notecard with M5 Stack
 </p>
 
